@@ -5,7 +5,7 @@ const jerseys = [
         id: 1,
         name: "Manchester United Home 2023/24",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Official 2023/24 home jersey with the iconic red color and black trim.",
         category: "premier-league",
         reviews: [
