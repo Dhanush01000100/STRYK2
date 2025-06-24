@@ -5,7 +5,7 @@ const jerseys = [
         id: 1,
         name: "Manchester United Home 2023/24",
         price: 89.99,
-        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Official 2023/24 home jersey with the iconic red color and black trim.",
         category: "premier-league",
         reviews: [
@@ -293,7 +293,7 @@ const jerseys = [
         id: 32,
         name: "Fiorentina Away 2023/24",
         price: 82.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White away jersey with purple accents.",
         category: "serie-a",
         reviews: []
@@ -302,7 +302,7 @@ const jerseys = [
         id: 33,
         name: "Torino Home 2023/24",
         price: 81.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Maroon home jersey with gold trim.",
         category: "serie-a",
         reviews: []
@@ -311,7 +311,7 @@ const jerseys = [
         id: 34,
         name: "Bologna Third 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition red and blue design.",
         category: "serie-a",
         reviews: []
@@ -320,7 +320,7 @@ const jerseys = [
         id: 35,
         name: "Sassuolo Home 2023/24",
         price: 78.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and green home jersey.",
         category: "serie-a",
         reviews: []
@@ -329,7 +329,7 @@ const jerseys = [
         id: 36,
         name: "Udinese Away 2023/24",
         price: 77.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White away jersey with black and gold trim.",
         category: "serie-a",
         reviews: []
@@ -340,7 +340,7 @@ const jerseys = [
         id: 37,
         name: "Bayern Munich Home 2023/24",
         price: 91.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red home jersey with white trim and diamond pattern.",
         category: "bundesliga",
         reviews: []
@@ -349,7 +349,7 @@ const jerseys = [
         id: 38,
         name: "Dortmund Away 2023/24",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and neon yellow away design.",
         category: "bundesliga",
         reviews: []
@@ -358,7 +358,7 @@ const jerseys = [
         id: 39,
         name: "RB Leipzig Home 2023/24",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red home jersey with white and blue accents.",
         category: "bundesliga",
         reviews: []
@@ -367,7 +367,7 @@ const jerseys = [
         id: 40,
         name: "Leverkusen Third 2023/24",
         price: 83.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition black and red jersey.",
         category: "bundesliga",
         reviews: []
@@ -376,7 +376,7 @@ const jerseys = [
         id: 41,
         name: "Wolfsburg Home 2023/24",
         price: 82.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Green home jersey with white trim.",
         category: "bundesliga",
         reviews: []
@@ -385,7 +385,7 @@ const jerseys = [
         id: 42,
         name: "Frankfurt Away 2023/24",
         price: 81.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black away jersey with red and white details.",
         category: "bundesliga",
         reviews: []
@@ -394,7 +394,7 @@ const jerseys = [
         id: 43,
         name: "Gladbach Home 2023/24",
         price: 83.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White and green striped home jersey.",
         category: "bundesliga",
         reviews: []
@@ -403,7 +403,7 @@ const jerseys = [
         id: 44,
         name: "Hoffenheim Third 2023/24",
         price: 80.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition blue and white design.",
         category: "bundesliga",
         reviews: []
@@ -412,7 +412,7 @@ const jerseys = [
         id: 45,
         name: "Stuttgart Home 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red home jersey with white accents.",
         category: "bundesliga",
         reviews: []
@@ -421,7 +421,7 @@ const jerseys = [
         id: 46,
         name: "Freiburg Away 2023/24",
         price: 78.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black away jersey with red and white trim.",
         category: "bundesliga",
         reviews: []
@@ -430,7 +430,7 @@ const jerseys = [
         id: 47,
         name: "Köln Home 2023/24",
         price: 77.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White home jersey with red trim.",
         category: "bundesliga",
         reviews: []
@@ -439,7 +439,7 @@ const jerseys = [
         id: 48,
         name: "Hertha Berlin Third 2023/24",
         price: 76.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition blue and white design.",
         category: "bundesliga",
         reviews: []
@@ -450,7 +450,7 @@ const jerseys = [
         id: 49,
         name: "PSG Home 2023/24",
         price: 96.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Dark blue home jersey with red accents.",
         category: "ligue-1",
         reviews: []
@@ -459,7 +459,7 @@ const jerseys = [
         id: 50,
         name: "Marseille Third 2023/24",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition white and gold jersey.",
         category: "ligue-1",
         reviews: []
@@ -468,7 +468,7 @@ const jerseys = [
         id: 51,
         name: "Lyon Home 2023/24",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White home jersey with blue and red trim.",
         category: "ligue-1",
         reviews: []
@@ -477,7 +477,7 @@ const jerseys = [
         id: 52,
         name: "Monaco Away 2023/24",
         price: 85.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black away jersey with red and white details.",
         category: "ligue-1",
         reviews: []
@@ -486,7 +486,7 @@ const jerseys = [
         id: 53,
         name: "Lille Home 2023/24",
         price: 83.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red home jersey with navy blue trim.",
         category: "ligue-1",
         reviews: []
@@ -495,7 +495,7 @@ const jerseys = [
         id: 54,
         name: "Nice Third 2023/24",
         price: 82.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition black and red design.",
         category: "ligue-1",
         reviews: []
@@ -504,7 +504,7 @@ const jerseys = [
         id: 55,
         name: "Rennes Home 2023/24",
         price: 81.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red and black home jersey.",
         category: "ligue-1",
         reviews: []
@@ -513,7 +513,7 @@ const jerseys = [
         id: 56,
         name: "Lens Away 2023/24",
         price: 80.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Yellow away jersey with red and gold trim.",
         category: "ligue-1",
         reviews: []
@@ -522,7 +522,7 @@ const jerseys = [
         id: 57,
         name: "Reims Home 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red and white home jersey.",
         category: "ligue-1",
         reviews: []
@@ -531,7 +531,7 @@ const jerseys = [
         id: 58,
         name: "Montpellier Third 2023/24",
         price: 78.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition orange and blue design.",
         category: "ligue-1",
         reviews: []
@@ -540,7 +540,7 @@ const jerseys = [
         id: 59,
         name: "Nantes Home 2023/24",
         price: 77.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Yellow home jersey with green trim.",
         category: "ligue-1",
         reviews: []
@@ -549,7 +549,7 @@ const jerseys = [
         id: 60,
         name: "Strasbourg Away 2023/24",
         price: 76.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White away jersey with blue trim.",
         category: "ligue-1",
         reviews: []
@@ -560,7 +560,7 @@ const jerseys = [
         id: 61,
         name: "Man United Retro 1999",
         price: 99.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Treble-winning season replica jersey.",
         category: "retro",
         reviews: []
@@ -569,7 +569,7 @@ const jerseys = [
         id: 62,
         name: "Brazil 2002 World Cup",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Iconic yellow jersey from Ronaldo era.",
         category: "retro",
         reviews: []
@@ -578,7 +578,7 @@ const jerseys = [
         id: 63,
         name: "Arsenal Invincibles 2004",
         price: 94.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red home jersey from unbeaten season.",
         category: "retro",
         reviews: []
@@ -587,7 +587,7 @@ const jerseys = [
         id: 64,
         name: "France 1998 World Cup",
         price: 92.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue home jersey from World Cup winners.",
         category: "retro",
         reviews: []
@@ -596,7 +596,7 @@ const jerseys = [
         id: 65,
         name: "Liverpool 2005 UCL",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red jersey from Istanbul miracle.",
         category: "retro",
         reviews: []
@@ -605,7 +605,7 @@ const jerseys = [
         id: 66,
         name: "AC Milan 1990s",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Classic red and black stripes.",
         category: "retro",
         reviews: []
@@ -614,7 +614,7 @@ const jerseys = [
         id: 67,
         name: "Barcelona Dream Team 1992",
         price: 91.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue and red stripes from Wembley win.",
         category: "retro",
         reviews: []
@@ -623,7 +623,7 @@ const jerseys = [
         id: 68,
         name: "Germany 1990 World Cup",
         price: 88.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White home jersey from Italia '90.",
         category: "retro",
         reviews: []
@@ -632,7 +632,7 @@ const jerseys = [
         id: 69,
         name: "Juventus 1996 UCL",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and white stripes from Champions League win.",
         category: "retro",
         reviews: []
@@ -641,7 +641,7 @@ const jerseys = [
         id: 70,
         name: "Netherlands 1988 Euros",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Orange jersey from Van Basten's volley.",
         category: "retro",
         reviews: []
@@ -650,7 +650,7 @@ const jerseys = [
         id: 71,
         name: "Real Madrid 2002 UCL",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White jersey from Zidane's volley final.",
         category: "retro",
         reviews: []
@@ -659,7 +659,7 @@ const jerseys = [
         id: 72,
         name: "England 1996 Euros",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White home jersey from Football's Coming Home.",
         category: "retro",
         reviews: []
@@ -670,7 +670,7 @@ const jerseys = [
         id: 73,
         name: "Argentina 2022 World Cup",
         price: 94.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Champions edition with gold details.",
         category: "national",
         reviews: []
@@ -679,7 +679,7 @@ const jerseys = [
         id: 74,
         name: "France Home 2023",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Classic blue with red accents.",
         category: "national",
         reviews: []
@@ -688,7 +688,7 @@ const jerseys = [
         id: 75,
         name: "Brazil Away 2023",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue away jersey with yellow trim.",
         category: "national",
         reviews: []
@@ -697,7 +697,7 @@ const jerseys = [
         id: 76,
         name: "England Home 2023",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White home jersey with blue accents.",
         category: "national",
         reviews: []
@@ -706,7 +706,7 @@ const jerseys = [
         id: 77,
         name: "Spain Away 2023",
         price: 85.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Purple away jersey with red trim.",
         category: "national",
         reviews: []
@@ -715,7 +715,7 @@ const jerseys = [
         id: 78,
         name: "Portugal Home 2023",
         price: 88.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red home jersey with green trim.",
         category: "national",
         reviews: []
@@ -724,7 +724,7 @@ const jerseys = [
         id: 79,
         name: "Netherlands Home 2023",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Orange home jersey with black trim.",
         category: "national",
         reviews: []
@@ -733,7 +733,7 @@ const jerseys = [
         id: 80,
         name: "Germany Away 2023",
         price: 83.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Pink away jersey with black trim.",
         category: "national",
         reviews: []
@@ -742,7 +742,7 @@ const jerseys = [
         id: 81,
         name: "Italy Home 2023",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue home jersey with white trim.",
         category: "national",
         reviews: []
@@ -751,7 +751,7 @@ const jerseys = [
         id: 82,
         name: "Belgium Away 2023",
         price: 82.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Yellow away jersey with red trim.",
         category: "national",
         reviews: []
@@ -760,7 +760,7 @@ const jerseys = [
         id: 83,
         name: "Croatia Home 2023",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red and white checkerboard home jersey.",
         category: "national",
         reviews: []
@@ -769,7 +769,7 @@ const jerseys = [
         id: 84,
         name: "Japan Home 2023",
         price: 81.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue home jersey with white trim.",
         category: "national",
         reviews: []
@@ -853,300 +853,4 @@ function loadJerseys() {
 
 // Add to cart function
 function addToCart(jerseyId) {
-    const jersey = jerseys.find(j => j.id === jerseyId);
-    if (!jersey) return;
-
-    const existingItem = cart.find(item => item.id === jerseyId);
-    if (existingItem) {
-        existingItem.quantity += 1;
-    } else {
-        cart.push({
-            ...jersey,
-            quantity: 1
-        });
-    }
-
-    updateCart();
-    showCartNotification();
-}
-
-// Update cart UI
-function updateCart() {
-    cartItems.innerHTML = '';
-    
-    if (cart.length === 0) {
-        cartItems.innerHTML = '<p>Your cart is empty</p>';
-        cartTotal.textContent = '$0.00';
-        document.querySelector('.cart-count').textContent = '0';
-        return;
-    }
-
-    let total = 0;
-    
-    cart.forEach(item => {
-        const cartItem = document.createElement('div');
-        cartItem.className = 'cart-item';
-        cartItem.innerHTML = `
-            <img src="${item.image}" alt="${item.name}" class="cart-item-img">
-            <div class="cart-item-details">
-                <h4 class="cart-item-name">${item.name}</h4>
-                <div class="cart-item-price">$${item.price.toFixed(2)}</div>
-                <div class="cart-item-quantity">
-                    <button class="quantity-btn minus" data-id="${item.id}">-</button>
-                    <input type="text" class="quantity-input" value="${item.quantity}" readonly>
-                    <button class="quantity-btn plus" data-id="${item.id}">+</button>
-                </div>
-                <button class="remove-item" data-id="${item.id}">Remove</button>
-            </div>
-        `;
-        cartItems.appendChild(cartItem);
-        
-        total += item.price * item.quantity;
-    });
-
-    // Update cart total and count
-    cartTotal.textContent = `$${total.toFixed(2)}`;
-    document.querySelector('.cart-count').textContent = cart.reduce((sum, item) => sum + item.quantity, 0);
-
-    // Add event listeners to quantity buttons
-    document.querySelectorAll('.quantity-btn').forEach(button => {
-        button.addEventListener('click', (e) => {
-            const jerseyId = parseInt(e.target.getAttribute('data-id'));
-            const isPlus = e.target.classList.contains('plus');
-            updateCartItemQuantity(jerseyId, isPlus);
-        });
-    });
-
-    // Add event listeners to remove buttons
-    document.querySelectorAll('.remove-item').forEach(button => {
-        button.addEventListener('click', (e) => {
-            const jerseyId = parseInt(e.target.getAttribute('data-id'));
-            removeFromCart(jerseyId);
-        });
-    });
-}
-
-// Update cart item quantity
-function updateCartItemQuantity(jerseyId, isPlus) {
-    const item = cart.find(item => item.id === jerseyId);
-    if (!item) return;
-
-    if (isPlus) {
-        item.quantity += 1;
-    } else {
-        if (item.quantity > 1) {
-            item.quantity -= 1;
-        } else {
-            removeFromCart(jerseyId);
-            return;
-        }
-    }
-
-    updateCart();
-}
-
-// Remove item from cart
-function removeFromCart(jerseyId) {
-    cart = cart.filter(item => item.id !== jerseyId);
-    updateCart();
-}
-
-// Show cart notification
-function showCartNotification() {
-    const notification = document.createElement('div');
-    notification.className = 'cart-notification';
-    notification.textContent = 'Item added to cart!';
-    document.body.appendChild(notification);
-    
-    setTimeout(() => {
-        notification.classList.add('show');
-    }, 10);
-
-    setTimeout(() => {
-        notification.classList.remove('show');
-        setTimeout(() => {
-            document.body.removeChild(notification);
-        }, 300);
-    }, 2000);
-}
-
-// Filter jerseys by category
-function filterJerseysByCategory(category) {
-    currentCategory = category;
-    loadJerseys();
-    
-    // Scroll to jerseys section
-    document.getElementById('jerseys').scrollIntoView({ behavior: 'smooth' });
-    
-    // Update active state on category elements
-    document.querySelectorAll('.category-card, [data-category]').forEach(el => {
-        el.classList.remove('active');
-        if (el.getAttribute('data-category') === category) {
-            el.classList.add('active');
-        }
-    });
-}
-
-// Search functionality
-function handleSearch() {
-    const searchTerm = searchInput.value.toLowerCase().trim();
-    
-    if (searchTerm === '') {
-        searchResults.innerHTML = '';
-        searchResults.classList.remove('active');
-        return;
-    }
-    
-    const results = jerseys.filter(jersey => 
-        jersey.name.toLowerCase().includes(searchTerm) ||
-        jersey.description.toLowerCase().includes(searchTerm) ||
-        jersey.category.toLowerCase().includes(searchTerm)
-    );
-    
-    displaySearchResults(results);
-}
-
-function displaySearchResults(results) {
-    searchResults.innerHTML = '';
-    
-    if (results.length === 0) {
-        searchResults.innerHTML = '<p class="no-results">No jerseys found matching your search</p>';
-    } else {
-        results.forEach(jersey => {
-            const resultItem = document.createElement('div');
-            resultItem.className = 'search-result-item';
-            resultItem.innerHTML = `
-                <img src="${jersey.image}" alt="${jersey.name}">
-                <div class="search-result-info">
-                    <h4>${jersey.name}</h4>
-                    <p>$${jersey.price.toFixed(2)}</p>
-                </div>
-            `;
-            resultItem.addEventListener('click', () => {
-                searchInput.value = '';
-                searchResults.classList.remove('active');
-                filterJerseysByCategory('all');
-                // Scroll to the jersey
-                setTimeout(() => {
-                    document.querySelector(`.jersey-card:has([alt="${jersey.name}"])`).scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'center'
-                    });
-                }, 100);
-            });
-            searchResults.appendChild(resultItem);
-        });
-    }
-    
-    searchResults.classList.add('active');
-}
-
-// Generate random order ID
-function generateOrderId() {
-    return 'STRYK-' + Math.floor(100000 + Math.random() * 900000);
-}
-
-// Setup event listeners
-function setupEventListeners() {
-    // Mobile menu toggle
-    mobileMenuBtn.addEventListener('click', () => {
-        mobileMenuContainer.classList.toggle('active');
-    });
-
-    // Mobile dropdown menus
-    document.querySelectorAll('.mobile-dropdown > a').forEach(link => {
-        link.addEventListener('click', (e) => {
-            e.preventDefault();
-            const dropdown = e.target.nextElementSibling;
-            dropdown.classList.toggle('active');
-        });
-    });
-
-    // Cart toggle
-    cartIcon.addEventListener('click', () => {
-        cartSidebar.classList.add('active');
-        cartOverlay.classList.add('active');
-    });
-
-    // Close cart
-    closeCart.addEventListener('click', () => {
-        cartSidebar.classList.remove('active');
-        cartOverlay.classList.remove('active');
-    });
-
-    // Cart overlay click
-    cartOverlay.addEventListener('click', () => {
-        cartSidebar.classList.remove('active');
-        cartOverlay.classList.remove('active');
-    });
-
-    // Checkout button
-    checkoutBtn.addEventListener('click', () => {
-        cartSidebar.classList.remove('active');
-        cartOverlay.classList.remove('active');
-        checkoutModal.classList.add('active');
-    });
-
-    // Close checkout modal
-    closeCheckout.addEventListener('click', () => {
-        checkoutModal.classList.remove('active');
-    });
-
-    // Checkout form submission
-    checkoutForm.addEventListener('submit', (e) => {
-        e.preventDefault();
-        checkoutModal.classList.remove('active');
-        
-        // Generate order ID
-        const orderId = generateOrderId();
-        document.getElementById('orderId').textContent = orderId;
-        
-        // Show confirmation modal
-        confirmationModal.classList.add('active');
-        
-        // Clear cart
-        cart = [];
-        updateCart();
-    });
-
-    // Continue shopping button
-    continueShoppingBtn.addEventListener('click', () => {
-        confirmationModal.classList.remove('active');
-    });
-
-    // Category filtering
-    document.querySelectorAll('.category-card, [data-category]').forEach(element => {
-        element.addEventListener('click', (e) => {
-            e.preventDefault();
-            const category = element.getAttribute('data-category');
-            filterJerseysByCategory(category);
-            
-            // Close mobile menu if open
-            mobileMenuContainer.classList.remove('active');
-        });
-    });
-
-    // Search functionality
-    searchIcon.addEventListener('click', () => {
-        searchInput.classList.toggle('active');
-        if (searchInput.classList.contains('active')) {
-            searchInput.focus();
-        } else {
-            searchInput.value = '';
-            searchResults.classList.remove('active');
-        }
-    });
-
-    searchInput.addEventListener('input', handleSearch);
-    searchInput.addEventListener('focus', handleSearch);
-
-    // Close search results when clicking outside
-    document.addEventListener('click', (e) => {
-        if (!e.target.closest('.search-container')) {
-            searchResults.classList.remove('active');
-        }
-    });
-}
-
-// Initialize the app
-init();
+    const jersey = jerseys.find
