@@ -17,7 +17,7 @@ const jerseys = [
         id: 2,
         name: "Liverpool Away 2023/24",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Striking away jersey with bold colors and modern design.",
         category: "premier-league",
         reviews: [
@@ -28,7 +28,7 @@ const jerseys = [
         id: 3,
         name: "Arsenal Third 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Unique pink and black design inspired by club heritage.",
         category: "premier-league",
         reviews: []
@@ -37,7 +37,7 @@ const jerseys = [
         id: 4,
         name: "Chelsea Home 2023/24",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Classic blue home jersey with white and red accents.",
         category: "premier-league",
         reviews: []
@@ -46,7 +46,7 @@ const jerseys = [
         id: 5,
         name: "Manchester City Away 2023/24",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Maroon and blue away jersey with modern pattern.",
         category: "premier-league",
         reviews: []
@@ -55,7 +55,7 @@ const jerseys = [
         id: 6,
         name: "Tottenham Third 2023/24",
         price: 82.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Green and purple jersey with lightning bolt pattern.",
         category: "premier-league",
         reviews: []
@@ -64,7 +64,7 @@ const jerseys = [
         id: 7,
         name: "Newcastle Home 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Traditional black and white stripes with Saudi sponsorship.",
         category: "premier-league",
         reviews: []
@@ -73,7 +73,7 @@ const jerseys = [
         id: 8,
         name: "West Ham Third 2023/24",
         price: 77.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Burgundy jersey with claret and blue accents.",
         category: "premier-league",
         reviews: []
@@ -82,7 +82,7 @@ const jerseys = [
         id: 9,
         name: "Aston Villa Home 2023/24",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Classic claret and blue with modern fit.",
         category: "premier-league",
         reviews: []
@@ -91,7 +91,7 @@ const jerseys = [
         id: 10,
         name: "Brighton Away 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Teal and black away jersey with subtle pattern.",
         category: "premier-league",
         reviews: []
@@ -100,7 +100,7 @@ const jerseys = [
         id: 11,
         name: "Leicester Home 2023/24",
         price: 76.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Royal blue jersey with gold accents.",
         category: "premier-league",
         reviews: []
@@ -109,7 +109,7 @@ const jerseys = [
         id: 12,
         name: "Wolves Third 2023/24",
         price: 78.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Orange and black jersey with wolf head pattern.",
         category: "premier-league",
         reviews: []
@@ -120,7 +120,7 @@ const jerseys = [
         id: 13,
         name: "Real Madrid Home 2023/24",
         price: 94.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Classic white home jersey with purple accents.",
         category: "la-liga",
         reviews: []
@@ -129,7 +129,7 @@ const jerseys = [
         id: 14,
         name: "Barcelona Away 2023/24",
         price: 92.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Gold and maroon away jersey with crest detail.",
         category: "la-liga",
         reviews: []
@@ -138,7 +138,7 @@ const jerseys = [
         id: 15,
         name: "Atletico Madrid Home 2023/24",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Red and white striped home jersey with blue trim.",
         category: "la-liga",
         reviews: []
@@ -147,7 +147,7 @@ const jerseys = [
         id: 16,
         name: "Sevilla Third 2023/24",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and gold special edition jersey.",
         category: "la-liga",
         reviews: []
@@ -156,7 +156,7 @@ const jerseys = [
         id: 17,
         name: "Valencia Home 2023/24",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Traditional white with black and orange trim.",
         category: "la-liga",
         reviews: []
@@ -165,7 +165,7 @@ const jerseys = [
         id: 18,
         name: "Villarreal Away 2023/24",
         price: 85.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Yellow jersey with blue details.",
         category: "la-liga",
         reviews: []
@@ -174,7 +174,7 @@ const jerseys = [
         id: 19,
         name: "Real Sociedad Home 2023/24",
         price: 83.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue and white striped home jersey.",
         category: "la-liga",
         reviews: []
@@ -183,7 +183,7 @@ const jerseys = [
         id: 20,
         name: "Betis Third 2023/24",
         price: 82.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Green and white special edition design.",
         category: "la-liga",
         reviews: []
@@ -192,7 +192,7 @@ const jerseys = [
         id: 21,
         name: "Athletic Bilbao Home 2023/24",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Classic red and white stripes.",
         category: "la-liga",
         reviews: []
@@ -201,7 +201,7 @@ const jerseys = [
         id: 22,
         name: "Celta Vigo Away 2023/24",
         price: 81.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Sky blue away jersey with dark blue trim.",
         category: "la-liga",
         reviews: []
@@ -210,7 +210,7 @@ const jerseys = [
         id: 23,
         name: "Getafe Home 2023/24",
         price: 79.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue home jersey with red accents.",
         category: "la-liga",
         reviews: []
@@ -219,7 +219,7 @@ const jerseys = [
         id: 24,
         name: "Espanyol Third 2023/24",
         price: 78.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition blue and white design.",
         category: "la-liga",
         reviews: []
@@ -230,7 +230,7 @@ const jerseys = [
         id: 25,
         name: "Juventus Home 2023/24",
         price: 89.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and white stripes with gold details.",
         category: "serie-a",
         reviews: []
@@ -239,7 +239,7 @@ const jerseys = [
         id: 26,
         name: "AC Milan Third 2023/24",
         price: 87.99,
-        image: "https://m.media-amazon.com/images/I/71+5M6G3WVL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Special edition green and black jersey.",
         category: "serie-a",
         reviews: []
@@ -248,7 +248,7 @@ const jerseys = [
         id: 27,
         name: "Inter Milan Home 2023/24",
         price: 88.99,
-        image: "https://m.media-amazon.com/images/I/71QN+-c0MZL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and blue striped home jersey.",
         category: "serie-a",
         reviews: []
@@ -257,7 +257,7 @@ const jerseys = [
         id: 28,
         name: "Roma Away 2023/24",
         price: 85.99,
-        image: "https://m.media-amazon.com/images/I/61XQYJ0hH5L._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "White away jersey with maroon and orange trim.",
         category: "serie-a",
         reviews: []
@@ -266,7 +266,7 @@ const jerseys = [
         id: 29,
         name: "Napoli Home 2023/24",
         price: 86.99,
-        image: "https://m.media-amazon.com/images/I/61+JXe9f9GL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Sky blue home jersey with white trim.",
         category: "serie-a",
         reviews: []
@@ -275,7 +275,7 @@ const jerseys = [
         id: 30,
         name: "Lazio Third 2023/24",
         price: 84.99,
-        image: "https://m.media-amazon.com/images/I/71XWQ0wGmML._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Black and gold special edition design.",
         category: "serie-a",
         reviews: []
@@ -284,7 +284,7 @@ const jerseys = [
         id: 31,
         name: "Atalanta Home 2023/24",
         price: 83.99,
-        image: "https://m.media-amazon.com/images/I/61G9L3bUKwL._AC_UY1100_.jpg",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/imagen_3.jpg?v=1730388363&width=600",
         description: "Blue and black home jersey.",
         category: "serie-a",
         reviews: []
